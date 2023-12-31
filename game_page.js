@@ -77,3 +77,7 @@ function check()
     document.getElementById("output").innerHTML = "";
 }
 
+function prob(){
+window.location = "game_login.html"
+}
+
